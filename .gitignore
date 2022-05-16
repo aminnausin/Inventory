@@ -1,0 +1,5 @@
+*.pyc
+Inventory/Inventory/migrations/__pycache__/__init__.cpython-38.pyc
+/Inventory/Inventory/__pycache__
+/Inventory/Inventory/migrations/__pycache__
+/Inventory/Inventory/__pycache__
